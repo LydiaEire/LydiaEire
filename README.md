@@ -12,9 +12,11 @@
 ### Profile Summary Cards
 
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LydiaEire&theme=default)
-![Top Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LydiaEire&theme=default)
 ![Top Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LydiaEire&theme=default)
 
+### Coding Activity
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LydiaEire)
 
 ### Контакты:
 
