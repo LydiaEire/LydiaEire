@@ -1,33 +1,23 @@
 # Привет 👋,
 
-Я Лидия, фронтенд-разработчик 👨‍💻, увлеченный технологиями JavaScript и всей её экосистемой.
+Я Лидия, энтузиаст фронтенд-разработки 🎨. Люблю создавать красивые и функциональные сайты с помощью JavaScript и Python.
 
-- 🚀 В данный момент работаю с приложениями на TypeScript.
-- 💬 Спрашивайте меня о технологиях, кино и немного психологии.
-- ⚡ Используемые технологии: ReactJS, NextJS, TailwindCSS, Framer Motion и т.д.
+🌱 В настоящий момент углубляю свои знания и разрабатываю приложения на React.
+💡 Готова обсудить технологии, книги и игры.
+🛠 Любимые инструменты: React, Tailwind и Django.
+
+"Any sufficiently advanced technology is indistinguishable from magic."
 
 
-### GitHub статус
+### Profile Summary Cards
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?LydiaEire=LydiaEire&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)  
+![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LydiaEire&theme=default)
+![Top Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LydiaEire&theme=default)
+![Top Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LydiaEire&theme=default)
 
-### Наиболее используемые языки
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?LydiaEire=LydiaEire&layout=compact)
 
 ### Контакты:
 
 [![VK](https://img.shields.io/badge/VK-@yourusername-blue)](https://vk.com/yourusername)
 
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
