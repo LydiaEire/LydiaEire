@@ -16,6 +16,6 @@
 
 ### Контакты:
 
-[![VK](https://img.shields.io/badge/VK-@yourusername-blue)](https://vk.com/lydia_eire)
+[![VK](https://img.shields.io/badge/VK-@lydia_eire-blue)](https://vk.com/lydia_eire)
 
 
