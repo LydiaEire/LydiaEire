@@ -14,9 +14,9 @@
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LydiaEire&theme=default)
 ![Top Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LydiaEire&theme=default)
 
-### Coding Activity
+### Streak Stats
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LydiaEire)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LydiaEire)
 
 ### Контакты:
 
