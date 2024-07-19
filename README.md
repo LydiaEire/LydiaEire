@@ -9,17 +9,13 @@
 "Any sufficiently advanced technology is indistinguishable from magic."
 
 
-### Profile Summary Cards
 
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LydiaEire&theme=default)
 ![Top Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LydiaEire&theme=default)
 
-### Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LydiaEire)
 
 ### Контакты:
 
-[![VK](https://img.shields.io/badge/VK-@yourusername-blue)](https://vk.com/yourusername)
+[![VK](https://img.shields.io/badge/VK-@yourusername-blue)](https://vk.com/lydia_eire)
 
 
