@@ -17,5 +17,4 @@
 ### Контакты:
 
 [![VK](https://img.shields.io/badge/VK-@lydia_eire-blue)](https://vk.com/lydia_eire)
-[![Telegram Badge](https://img.shields.io/badge/-Lydia_Eire-blue?style=flat-square&logo=Telegram&logoColor=white&color=blue&link=https://t.me/Lydia_Eire)](https://t.me/Lydia_Eire)
-
+[![Telegram](https://img.shields.io/badge/Telegram-@Lydia__Eire-blue)](https://t.me/Lydia_Eire)
