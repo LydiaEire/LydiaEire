@@ -6,7 +6,6 @@
 - 💡 Готова обсудить технологии, книги и игры.
 - 🛠 Любимые инструменты: React, Tailwind и Django.
   
-<img src="https://www.intertronics.co.uk/wp-content/uploads/2016/03/Technology-magic.jpg" alt="Technology Magic" width="600" height="200">
 
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LydiaEire&theme=default)
 ![Top Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LydiaEire&theme=default)
@@ -16,3 +15,5 @@
 
 [![VK](https://img.shields.io/badge/VK-@lydia_eire-blue)](https://vk.com/lydia_eire)
 [![Telegram](https://img.shields.io/badge/Telegram-@Lydia__Eire-blue)](https://t.me/Lydia_Eire)
+
+<img src="https://www.intertronics.co.uk/wp-content/uploads/2016/03/Technology-magic.jpg" alt="Technology Magic" width="600" height="300">
