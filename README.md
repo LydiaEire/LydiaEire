@@ -6,9 +6,7 @@
 - 💡 Готова обсудить технологии, книги и игры.
 - 🛠 Любимые инструменты: React, Tailwind и Django.
 
-"Any sufficiently advanced technology is indistinguishable from magic."
-
-
+![Technology Magic](https://www.intertronics.co.uk/wp-content/uploads/2016/02/technology-magic-2.jpg)
 
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LydiaEire&theme=default)
 ![Top Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LydiaEire&theme=default)
