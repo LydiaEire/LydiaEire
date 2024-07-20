@@ -16,4 +16,4 @@
 [![VK](https://img.shields.io/badge/VK-@lydia_eire-blue)](https://vk.com/lydia_eire)
 [![Telegram](https://img.shields.io/badge/Telegram-@Lydia__Eire-blue)](https://t.me/Lydia_Eire)
 
-<img src="https://www.intertronics.co.uk/wp-content/uploads/2016/03/Technology-magic.jpg" alt="Technology Magic" width="600" height="300">
+<img src="https://www.intertronics.co.uk/wp-content/uploads/2016/03/Technology-magic.jpg" alt="Technology Magic" width="600" height="200">
